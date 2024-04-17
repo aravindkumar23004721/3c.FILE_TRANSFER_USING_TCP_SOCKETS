@@ -58,7 +58,7 @@ while True:
 client:
 ![319137118-d4bc70e9-1ec9-4530-914f-fb903ac76eb8](https://github.com/Prasanavausdevan/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/144870579/cc63add3-1c25-4bc2-9d9c-9257209a7c03)
 
-server:
+Server:
 ![319136893-7e85a4de-e427-47e3-b4d2-e91ba5aa3d7a](https://github.com/Prasanavausdevan/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/144870579/6851caee-2b57-4de2-beb3-3f8ae65daa19)
 
 
